@@ -1,0 +1,16 @@
+schema: spec-driven
+
+context: |
+  Tech stack: Python (Numpy, Matplotlib)
+  Naming Convention: All changes and specification files must start with a two-digit number and a dash (e.g., 01-cliff-walking).
+  This follows the project numbering rule starting from 01-.
+
+# Per-artifact rules (optional)
+# Add custom rules for specific artifacts.
+# Example:
+#   rules:
+#     proposal:
+#       - Keep proposals under 500 words
+#       - Always include a "Non-goals" section
+#     tasks:
+#       - Break tasks into chunks of max 2 hours

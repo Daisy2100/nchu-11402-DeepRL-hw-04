@@ -1,0 +1,26 @@
+{
+  "name": "nchu-11402-deeprl-hw-04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:start": "bash scripts/startup.sh",
+    "dev:ending": "bash scripts/ending.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daisy2100/nchu-11402-DeepRL-hw-04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Daisy2100/nchu-11402-DeepRL-hw-04/issues"
+  },
+  "homepage": "https://github.com/Daisy2100/nchu-11402-DeepRL-hw-04#readme",
+  "devDependencies": {
+    "@openspeccn/openspec": "^1.1.1"
+  }
+}
